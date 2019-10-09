@@ -1,0 +1,24 @@
+Calvin Tan
+Frontend Developer
+
+# about
+I love to create works that's fun and creative. I get my inspiration from nature and objects around me. I enjoy conducting workshops for Le Wagon - https://www.lewagon.com
+
+# skills
+Here are coding languages I want to master:
+1. HTML
+2. CSS
+3. JavaScript (and not Java!)
+
+# hobbies
+I enjoy the following in my spare time:
+- Watching movies
+- Reading books
+- Listening to podcasts
+
+# social
+Made with love by Calvin
+- Facebook icon
+- Twitter icon
+- LinkedIn icon
+- Instagram icon
